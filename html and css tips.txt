@@ -1,0 +1,19 @@
+html element: 
+	what shows up on the website eg. <button>, <p>, etc.
+html tag: 
+	eg <button> </button> opening and closing tag
+html attribute:
+	modifies how an element behaves.
+	<a href =""> modifies how <a> behaves
+css selector:
+	which elements we are targeting
+	<style> button {} 
+css property:
+	what we are changing
+	eg background color
+css value:
+	what we are changing to
+	eg red
+pseudo class:
+	adds extra styles in a certain situation
+	eg hover, active
