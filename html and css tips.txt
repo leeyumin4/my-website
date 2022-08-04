@@ -1,3 +1,4 @@
+https://www.w3schools.com/html/default.asp   <-- A great site for learning html, css, js and beyond
 html element: 
 	what shows up on the website eg. <button>, <p>, etc.
 html tag: 
