@@ -17,3 +17,16 @@ css value:
 pseudo class:
 	adds extra styles in a certain situation
 	eg hover, active
+css box model:
+	how much space an element takes up
+	how far it is away from other elements
+html entity:
+	special symbols not accessible on keyboard
+	google html entity and copy paste html code
+css specificity:
+	browser follows a priority if there are multiple of the same styles
+	selectors that are more specific have more priority
+selector:
+	shows what the styles are targeting
+text element:
+	element that is inside a line of text
